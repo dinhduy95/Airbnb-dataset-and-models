@@ -1,2 +1,2 @@
 # Data-structures-and-Algorithms
-## All exercises on Udacity
+## This is for educational purpose only.
