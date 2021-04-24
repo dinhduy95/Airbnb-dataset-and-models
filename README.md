@@ -1,2 +1,2 @@
-# Data-structures-and-Algorithms
+# Machine Learning
 ## This is for educational purpose only.
